@@ -1,3 +1,5 @@
+[![Gradle validation](https://github.com/Ermolz/java-practice03/actions/workflows/gradle.yml/badge.svg)](https://github.com/Ermolz/java-practice03/actions/workflows/gradle.yml)
+
 # Practice 3: Gradle Custom Plugin
 
 Minimal Java project with a custom Gradle plugin implemented through `buildSrc`.
