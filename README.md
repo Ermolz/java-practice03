@@ -1,4 +1,4 @@
-[![Gradle validation](https://github.com/Ermolz/java-practice03/actions/workflows/gradle.yml/badge.svg)](https://github.com/Ermolz/java-practice03/actions/workflows/gradle.yml)
+[![Gradle validation](https://github.com/Ermolz/java-practice03/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/Ermolz/java-practice03/actions/workflows/gradle.yml)
 
 # Practice 3: Gradle Custom Plugin
 
